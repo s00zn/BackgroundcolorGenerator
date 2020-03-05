@@ -21,7 +21,7 @@ function getRandomColor() {
     return color;   
 }
 
-function randomizeColor(event) {
+function randomizeColor() {
     color1.value = getRandomColor();
     color2.value = getRandomColor();
     setGradient();
