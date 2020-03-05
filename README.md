@@ -1,2 +1,2 @@
-# s00zn.github.io-ZtM-BackgroundcolorGenerator
+# ZtM-BackgroundcolorGenerator
 Generator for gradient background colors, and its color-codes
